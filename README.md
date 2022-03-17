@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## 相道数字
 
-You can use the [editor on GitHub](https://github.com/Dao-Realm/Dao-Realm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+新一代潮流网购社区
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+全球领先的集正品潮流电商和潮流生活社区于一体的新一代潮流网购社区。 在传统电商模式的基础上增加鉴别真假与查验瑕疵的服务，以强中心化平台定位深入管理把控全程：严格的商品上架标准、更公平的竞价交易机制、统一履约交付和尽心高效的客服沟通等流程体验。同时作为年轻人的潮流生活社区，社区通过持续沉淀潮流话题内容，正在成为年轻用户的潮流风向标和发声阵地。 聚集了一大批热爱球鞋、潮品穿搭和潮流文化的爱好者，话题讨论集中在球鞋、潮牌、手办、街头文化、汽车腕表和时尚艺术等年轻人关注的热点话题。正在成为中国潮流文化发展的土壤。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dao-Realm/Dao-Realm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本司从未授权或委托官方认证服务商外的任何第三方以名义招商或为您提供代运营服务，请直接通过服务市场页面查看认证服务商简介。从未委托任何第三方进行集货或向您收取任何入驻费用，您仅可通过服务市场页面自主申请入驻平台，任何第三方渠道均不可信，请谨防诈骗。如您遭遇相关诈骗情况，请联系我司进行举报
